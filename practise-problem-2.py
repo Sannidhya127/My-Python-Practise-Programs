@@ -36,10 +36,10 @@ try:
         if mnTerm < mxTerm:
             if divided == 0:
                 # print(nTerm / i)
-                print(f"The number {i} is a divisor of {nTerm}")
+                print(f"The number {i} is a divisor of the number {nTerm}")
 
             elif nTerm % i != 0:
-                print(f"The number {i} is not a divisor of {nTerm}")
+                print(f"The number {i} is not a divisor of the number {nTerm}")
 
 
 except ValueError:
