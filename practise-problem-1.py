@@ -14,6 +14,9 @@
 # You can also handle any other errors, if possible!
 
 
+# The program is starting...
+
+
 import time
 from datetime import date
 
@@ -52,7 +55,7 @@ def BirthYearExtractData():
                 "We are delighted to provide you with our services. Looking forward to serve you again")
         time.sleep(6)
 
-        return "Looking forward to serve you again"
+        return "Looking forward to serve you again XD :)"
 
 
 def AgeGivenExtractData():
@@ -83,7 +86,7 @@ def AgeGivenExtractData():
         print("Your input is invalid. Please try again")
         time.sleep(6)
 
-    return "Looking forward to serve you again"
+    return "Looking forward to serve you again XD :)"
 
 
 if __name__ == "__main__":
