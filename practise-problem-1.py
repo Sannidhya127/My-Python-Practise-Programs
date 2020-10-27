@@ -105,7 +105,7 @@ if __name__ == "__main__":
             print(f"You will become 100 years old in th year {HundredLater}")
             print(BirthYearExtractData())
         elif brithYear > current_date.year:
-            print("Sorry dear! My System is not that fool that it cannot understand that you aren't yet born. Go become born and then come back")
+            print("Sorry dear! My System is not that fool that it cannot understand that you aren't yet born :). Go get born and then come back dear unborn")
             print(BirthYearExtractData())
 
     else:
