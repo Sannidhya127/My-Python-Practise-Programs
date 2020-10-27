@@ -26,7 +26,7 @@
 
 # All three methods give the same results!
 
-# The program starts from here!
+# The program starts from here! XD:)
 
 ListIn = int(input("Please enter the size of the list:\n"))
 
