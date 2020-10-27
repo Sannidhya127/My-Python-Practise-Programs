@@ -39,7 +39,7 @@ print(f"Your list is:")
 for i in ls:
     print(i)
 
-print("We have reversed the list for you")
+print("We have reversed the list for you!")
 
 ls = ls[::-1]
 for i in ls:
