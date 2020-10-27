@@ -21,16 +21,16 @@ import time
 from datetime import date
 
 
-def ContinueOrExit():
-    print("Press q to quit and c to continue")
-    user_choice2 = ""
-    while(user_choice2 != "c" and user_choice2 != "q"):
-        user_choice2 = input()
-        if user_choice2 == "q":
-            exit()
+# def ContinueOrExit():
+#     print("Press q to quit and c to continue")
+#     user_choice2 = ""
+#     while(user_choice2 != "c" and user_choice2 != "q"):
+#         user_choice2 = input()
+#         if user_choice2 == "q":
+#             exit()
 
-        elif user_choice2 == "c":
-            continue
+#         elif user_choice2 == "c":
+#             continue
 
 
 def BirthYearExtractData():
