@@ -28,7 +28,9 @@ def PalindromeNum(num):
         # num = num + 1
         num = str(int(num))
         if num == num[::-1]:
-            print(f"Your next Palindrome is {num}")
+            print(f"{num} is already a Palindrome")
+            # *! num = str(int(num) )
+            # *! print(f"The next Palindrome is {num}")
             break
         else:
             num = str(int(num)+1)
