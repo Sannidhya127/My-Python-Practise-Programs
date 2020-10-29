@@ -1,4 +1,4 @@
-# Python Problem 4 | Python Tutorials For Absolute Beginners In Hindi  # 109
+# Python Problem 4
 # The task you have to perform is “The Next Palindrome.” This task consists of a total of 15 points to evaluate your performance.
 # Problem Statement: -
 # A palindrome is a string that, when reversed, is equal to itself. Example of the palindrome includes:
